@@ -11,8 +11,8 @@
         "typeRoots": ["./node_modules/@types"],
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
-        "strict": true
+        "strict": true,
+        "allowSyntheticDefaultImports": true
     },
-    "include": ["src/**/*"],
     "exclude": ["node_modules"]
 }
